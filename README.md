@@ -6,10 +6,10 @@
 
 function getBio() {
 	return {
-          👋: "Hi, I’m @Alebuenoaz",
-          👀: "I’m interested in Web Development, both Frontend and Backend",
-          🌱: "I’m currently learning JavaScript more in depth",
-          📫: "You can reach me with an email to alebuenoaz@gmail.com"
+          "👋": "Hi, I’m @Alebuenoaz",
+          "👀": "I’m interested in Web Development, both Frontend and Backend",
+          "🌱": "I’m currently learning Next.Js more in depth",
+          "📫": "You can reach me with an email to alebuenoaz@gmail.com"
 	}
 }
 ```
